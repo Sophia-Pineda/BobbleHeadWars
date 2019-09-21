@@ -60,7 +60,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\SCRIPTS\CameraMovement.cs" />
     <Compile Include="Assets\SCRIPTS\CameraShake.cs" />
+    <Compile Include="Assets\SCRIPTS\Gun.cs" />
     <Compile Include="Assets\SCRIPTS\PlayerController.cs" />
     <Compile Include="Assets\SCRIPTS\Rotator.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
