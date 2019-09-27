@@ -60,9 +60,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\GameManager.cs" />
+    <Compile Include="Assets\SCRIPTS\Alien.cs" />
     <Compile Include="Assets\SCRIPTS\CameraMovement.cs" />
     <Compile Include="Assets\SCRIPTS\CameraShake.cs" />
+    <Compile Include="Assets\SCRIPTS\GameManager.cs" />
     <Compile Include="Assets\SCRIPTS\Gun.cs" />
     <Compile Include="Assets\SCRIPTS\PlayerController.cs" />
     <Compile Include="Assets\SCRIPTS\Projectile.cs" />
