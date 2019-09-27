@@ -231,8 +231,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 2301516887470091888}
-  spawnPoints: []
-  alien: {fileID: 587604513}
+  spawnPoints:
+  - {fileID: 934388579}
+  - {fileID: 2002011586}
+  - {fileID: 344106863}
+  - {fileID: 371752027}
+  - {fileID: 1291508597}
+  - {fileID: 382096220}
+  - {fileID: 1498523105}
+  - {fileID: 1006775350}
+  - {fileID: 1219265502}
+  - {fileID: 1783538558}
+  - {fileID: 810210696}
+  alien: {fileID: 5735606731144584262, guid: cdb2bc519d3788b41abc85a970a56c1b, type: 3}
 --- !u!1001 &155230621
 PrefabInstance:
   m_ObjectHideFlags: 0
