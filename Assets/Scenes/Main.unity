@@ -730,7 +730,7 @@ GameObject:
   - component: {fileID: 385719343}
   - component: {fileID: 385719345}
   - component: {fileID: 385719344}
-  m_Layer: 0
+  m_Layer: 15
   m_Name: WallTrigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
